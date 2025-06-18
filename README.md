@@ -18,7 +18,7 @@ I'm a Software Engineer at General Motors, working in the field of autonomous ve
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZivTalyas&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ZivTalyas&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZivTalyas&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZivTalyas&theme=radical&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZivTalyas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
