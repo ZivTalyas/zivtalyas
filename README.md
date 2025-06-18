@@ -2,16 +2,13 @@
 
 I'm a Software Engineer at General Motors, working in the field of autonomous vehicles. I'm also an M.Sc. student in Information Systems at Tel Aviv University, specializing in Data Science and Machine Learning.
 
-## About Me
+## Current work and learning
 
 - 🔭 I’m currently working on: [securepipe-llm-gateway](https://github.com/ZivTalyas/securepipe-llm-gateway)  
   A cloud-based service that provides a security wrapper for LLM models, protecting them from suspicious user inputs.
 
 - 🌱 I’m currently learning:  
   Building full-scale applications and services, with a focus on scalability, security, and real-world deployment.
-
-- 👯 I’m looking to collaborate on:  
-  Open to suggestions! I'm especially interested in projects related to AI safety, autonomous systems, or developer tools.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ziv-talyas/) 
