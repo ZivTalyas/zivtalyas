@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi 👋, I'm Ziv
 
-My name is Ziv. I'm a Software Engineer at General Motors, working in the field of autonomous vehicles. I'm also an M.Sc. student in Information Systems at Tel Aviv University, specializing in Data Science and Machine Learning.
+I'm a Software Engineer at General Motors, working in the field of autonomous vehicles. I'm also an M.Sc. student in Information Systems at Tel Aviv University, specializing in Data Science and Machine Learning.
 
 ## About Me
 
