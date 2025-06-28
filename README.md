@@ -4,8 +4,8 @@ I'm a Software Engineer at General Motors, working in the field of autonomous ve
 
 ## Current work and learning
 
-- 🔭 I’m currently working on: [huggingface-secure-proxy](https://github.com/ZivTalyas/huggingface-secure-proxy)  
-  A cloud-based security gateway service that acts as a secure proxy for Hugging Face models, providing input validation, content filtering, and security analysis before forwarding requests to Hugging Face APIs.
+- 🔭 I’m currently working on: [safe-input-proxy](https://github.com/ZivTalyas/safe-input-proxy)  
+  A cloud-based security gateway that acts as a secure proxy for APIs and services by providing comprehensive input validation, content filtering, and security analysis. It ensures that all incoming data from any source is inspected and sanitized before reaching downstream applications or APIs.
 
 - 🌱 I’m currently learning:  
   Building full-scale applications and services, with a focus on scalability, security, and real-world deployment.
