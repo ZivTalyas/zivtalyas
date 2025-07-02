@@ -1,11 +1,15 @@
 # Hi 👋, I'm Ziv
 
 I'm a Software Engineer at General Motors, working in the field of autonomous vehicles. I'm also an M.Sc. student in Information Systems at Tel Aviv University, specializing in Data Science and Machine Learning.
+I enjoy building end-to-end products, taking ideas from initial concept through design, development, testing, and finally to deployment and delivery. I find the full product lifecycle both challenging and rewarding, as it allows me to combine creativity, problem-solving, and technical skills to bring meaningful solutions to life.
 
 ## Current work and learning
 
-- 🔭 I’m currently working on: [safe-input-proxy](https://github.com/ZivTalyas/safe-input-proxy)  
-  A cloud-based security gateway that acts as a secure proxy for APIs and services by providing comprehensive input validation, content filtering, and security analysis. It ensures that all incoming data from any source is inspected and sanitized before reaching downstream applications or APIs.
+- 🚀 Main Deployed Projects:
+  [safe-input-proxy](https://github.com/ZivTalyas/safe-input-proxy) - A cloud-based security gateway that acts as a secure proxy for APIs and services by providing comprehensive input validation, content filtering, and security analysis. It ensures that all incoming data from any source is inspected and sanitized before reaching downstream applications or APIs.
+  [grocery-list-ai](https://github.com/ZivTalyas/grocery-list-ai) - A modern web application that helps users manage their grocery lists with AI-powered features. Built with Next.js, TypeScript, and Supabase.
+
+- 🔭 I’m currently working on: Exploring new end-to-end product challenges
 
 - 🌱 I’m currently learning:  
   Building full-scale applications and services, with a focus on scalability, security, and real-world deployment.
