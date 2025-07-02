@@ -7,6 +7,9 @@ I enjoy building end-to-end products, taking ideas from initial concept through 
 
 - 🚀 Main Deployed Projects:
   - [safe-input-proxy](https://github.com/ZivTalyas/safe-input-proxy) - A cloud-based security gateway that acts as a secure proxy for APIs and services by providing comprehensive input validation, content filtering, and security analysis. It ensures that all incoming data from any source is inspected and sanitized before reaching downstream applications or APIs.
+    
+     <img src="demo-safe-input-proxy.gif" width="600" height="300"/>
+    
   - [grocery-list-ai](https://github.com/ZivTalyas/grocery-list-ai) - A modern web application that helps users manage their grocery lists with AI-powered features. Built with Next.js, TypeScript, and Supabase.
 
 - 🔭 I’m currently working on: Exploring new end-to-end product challenges
