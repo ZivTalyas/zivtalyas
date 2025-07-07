@@ -13,7 +13,7 @@ I enjoy building end-to-end products, taking ideas from initial concept through 
   - [grocery-list-ai](https://github.com/ZivTalyas/grocery-list-ai) - A modern web application that helps users manage their grocery lists with AI-powered features. Built with Next.js, TypeScript, and Supabase.
   - [ai-news-collector](https://github.com/ZivTalyas/ai-news-collector) - A fully automated cloud-based system that collects, stores, and displays top AI news articles daily
 
-     <img src="demo-safe-input-proxy.gif" width="600" height="300"/>
+     <img src="ai-news-collector-demo.jpg" width="600" height="300"/>
 
 - 🔭 I’m currently working on: Looking for something new to build. 
 
